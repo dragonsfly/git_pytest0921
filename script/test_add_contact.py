@@ -14,3 +14,6 @@ class TestNewContact:
         self.page.addcontactpage.new_phone("186")
         self.page.addcontactpage.back()
         assert self.page.confirmpage.get_attribute() == "222"
+
+    def test_login(self):
+        assert 1
