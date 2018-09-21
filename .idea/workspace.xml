@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc52df8-6c7b-4754-87d6-678c6f754798" name="默认的" comment="" />
+    <list default="true" id="5cc52df8-6c7b-4754-87d6-678c6f754798" name="默认的" comment="更改了第一部分">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_action.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base_action.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/base_action.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -39,8 +43,8 @@
       <file leaf-file-name="test_add_contact.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/test_add_contact.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="307">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -48,14 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/contact_page.py">
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -68,6 +69,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,6 +86,7 @@
         <option value="$PROJECT_DIR$/page/contact_page.py" />
         <option value="$PROJECT_DIR$/base/base_action.py" />
         <option value="$PROJECT_DIR$/script/test_add_contact.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
       </list>
     </option>
   </component>
@@ -95,10 +100,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="576" />
-    <option name="y" value="39" />
+    <option name="x" value="276" />
+    <option name="y" value="327" />
     <option name="width" value="1400" />
-    <option name="height" value="990" />
+    <option name="height" value="610" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -109,22 +114,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="通讯录" type="b2602c69:ProjectViewProjectNode" />
-              <item name="通讯录" type="462c0819:PsiDirectoryNode" />
+              <item name="git_pytest0921" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_pytest0921" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="通讯录" type="b2602c69:ProjectViewProjectNode" />
-              <item name="通讯录" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="通讯录" type="b2602c69:ProjectViewProjectNode" />
-              <item name="通讯录" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="通讯录" type="b2602c69:ProjectViewProjectNode" />
-              <item name="通讯录" type="462c0819:PsiDirectoryNode" />
+              <item name="git_pytest0921" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_pytest0921" type="462c0819:PsiDirectoryNode" />
               <item name="script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -222,20 +217,28 @@
       <option name="presentableId" value="Default" />
       <updated>1537270740552</updated>
     </task>
+    <task id="LOCAL-00001" summary="更改了第一部分">
+      <created>1537512140160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537512140160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="576" y="39" width="1400" height="990" extended-state="0" />
+    <frame x="276" y="327" width="1400" height="610" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31707317" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32912844" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120178044" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32912844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17136498" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -254,29 +257,29 @@
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3299356" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="运行" order="5" weight="0.3295583" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="2" />
-      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="2" />
       <window_info id="Structure" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.39071348" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3299356" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="bottom" id="调试" order="0" weight="0.3295583" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.39071348" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,12 +288,53 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改了第一部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改了第一部分" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page/add_contact_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/test_add_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/contact_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page/add_contact_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -319,9 +363,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../PO模式/base/base_driver.py" />
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/confirm_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -356,16 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/contact_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/add_contact_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -376,12 +407,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/test_add_contact.py">
+    <entry file="file://$PROJECT_DIR$/page/contact_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -390,6 +421,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/test_add_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
